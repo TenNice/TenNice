@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi Welcom, I'm Sihoon Ko
+
+Web Developer
+
+Stacks
+JavaScript Node.Js PHP C++
+
+Tools
+VisualStudioCode GitHub EclipseIDE
